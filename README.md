@@ -80,7 +80,7 @@ plt.show()
 
 #### SEASONAL PLOT REPRESENTATION :
 
-![image](https://github.com/user-attachments/assets/174f5dea-807f-43c0-bddd-4182cd483185)
+![Untitled](https://github.com/user-attachments/assets/2efcccd6-47bf-4b70-9718-a891f32cb00b)
 
 
 
